@@ -40,12 +40,12 @@
         <dependency>
             <groupId>com.wisii</groupId>
             <artifactId>wdwe-core</artifactId>
-            <version>2.0.0</version>
+            <version>2.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.wisii</groupId>
             <artifactId>wdwe-fonttool</artifactId>
-            <version>2.0.0</version>
+            <version>2.0.1</version>
         </dependency>
         <!-- batik deps -->
         <dependency>
